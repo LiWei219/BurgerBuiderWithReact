@@ -12,7 +12,7 @@
     transition: tranfrom 0.3x ease-out;
 }
 
-@media (min-width: 200px) {
+@media (min-width: 500px) {
     .SideDrawer{
         display: none;
     }
